@@ -1,0 +1,6 @@
+Mi nombre es Anthony y mis habilidades son...
+ * Python 
+ * html5
+ * css
+ * bootstrap
+ 
