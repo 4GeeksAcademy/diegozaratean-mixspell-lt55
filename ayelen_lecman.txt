@@ -1,0 +1,15 @@
+# Ayelen Lecman
+### Estudiante FullStack Developer - 4geeks Academy
+
+Esta es el proyecto que debo entregar 
+
+➤ **Pull request en Github**
+
+✨ Herramientas que más me ha gustado aprender ✨
+- HTML
+- CSS
+- Bootstrap
+- Git 
+- GitHub
+
+*Vamos por más!* 🚀
